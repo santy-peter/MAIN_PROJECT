@@ -4,15 +4,7 @@
 
 The Personality Prediction System is an AI-powered application designed to analyze resumes or textual data provided by candidates, predict their personality traits, and assist recruiters in making informed hiring decisions. This system utilizes various technologies and techniques, including machine learning, natural language processing (NLP), and a web interface to streamline the candidate evaluation process.
 
-#Installation Guide
-## copy this repo link and open on your IDE
-## Create your Gemini Api key going through the link below.
->  https://makersuite.google.com/app/apikey
-## Install the requirements
-> pip install r- requirements.txt
-## Run the app.py
-> python app.py
-## Enjoy -:)
+
 
 
 ## Technologies Used
